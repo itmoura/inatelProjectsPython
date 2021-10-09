@@ -1,0 +1,16 @@
+setup.cfg
+setup.py
+pydataset/__init__.py
+pydataset/datasets_handler.py
+pydataset/dump_data.py
+pydataset/locate_datasets.py
+pydataset/resources.tar.gz
+pydataset/support.py
+pydataset.egg-info/PKG-INFO
+pydataset.egg-info/SOURCES.txt
+pydataset.egg-info/dependency_links.txt
+pydataset.egg-info/pbr.json
+pydataset.egg-info/requires.txt
+pydataset.egg-info/top_level.txt
+pydataset/utils/__init__.py
+pydataset/utils/html2text.py
